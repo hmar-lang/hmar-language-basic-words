@@ -42,7 +42,7 @@ Hmar is a Sino-Tibetan language spoken by the Hmar people in northeastern India.
 
 ## Dataset Details
 
-**Name:** `keikanih/hmar_language_basic_words`  
+**Name:** `hmar-lang/hmar-language-basic-words`  
 This dataset is part of a broader project to create a comprehensive repository for Hmar language resources.
 
 ## Additional Details
@@ -77,11 +77,11 @@ Released under the **MIT License**, but specific data may be subject to copyrigh
 
 ## Related Datasets
 
-- [Hmar Bible Dataset](https://huggingface.co/datasets/hmar-lang/hmar_bible_dataset)  
-- [Hmar Language Conversations](https://huggingface.co/datasets/hmar-lang/hmar_language_conversations)
+- [Hmar Bible Dataset](https://huggingface.co/datasets/hmar-lang/hmar-bible-dataset)  
+- [Hmar Language Conversations](https://huggingface.co/datasets/hmar-lang/hmar-language-conversations)
 
 ## External Link  
-**GitHub:** [Hmar Language Basic Words Repository](https://github.com/hmar-lang/hmar_language_basic_words)
+**GitHub:** [Hmar Language Basic Words Repository](https://github.com/hmar-lang/hmar-language-basic-words)
 
 ## Extras  
 This GitHub repository shares the same structure as the Hugging Face dataset but includes an additional `chunks` folder, where the data is split into four segments. It also contains an unsorted dataset in the root folder named `data.csv`.
@@ -97,7 +97,7 @@ For inquiries or contributions, please contact Donal Muolhoi at donalmuolhoi@gma
   title        = {Hmar Language Basic Words Dataset},
   year         = {2024},
   publisher    = {Hugging Face Datasets},
-  howpublished = {\url{https://huggingface.co/datasets/hmar-lang/hmar_language_basic_words}},
+  howpublished = {\url{https://huggingface.co/datasets/hmar-lang/hmar-language-basic-words}},
   note         = {This dataset is part of a personal project currently being developed as a solo effort.},
   license      = {MIT},
   howpublished = {\url{https://github.com/hmar-lang/hmar_language_basic_words}}

@@ -49,6 +49,8 @@ This dataset is part of a broader project to create a comprehensive repository f
 
 ## Additional Details
 
+##### Standardization Issue
+
 Although this dataset aims to serve as a translation resource, it may not always provide direct word-for-word translations from English to Hmar. In some cases, the dataset includes descriptions or contextual interpretations of Hmar words, reflecting the nuances and cultural significance of the language.
 
 The Hmar alphabet includes the letter "ṭ" (with a dot below), but in this dataset, such words may be represented using "tr" instead. This format follows the conventions used in the **Pherzawl Diksawnari** dictionary by Dr. John H. Pulamte, which is the current source for this dataset. 

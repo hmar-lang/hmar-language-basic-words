@@ -15,9 +15,11 @@ size_categories:
 
 The previous dataset has been deleted in light of more accurate and comprehensive translations. This update introduces a better-organized and reliable dataset for the Hmar language, featuring improved translations and formatting. The current dataset includes Dr. John H. Pulamte's dictionary, organized into the **Pherzawl-Diksawnari** folder, with each alphabet stored as its own CSV file. This dataset is part of an ongoing effort to create a comprehensive resource for the Hmar language. Further dictionaries will be integrated in future updates.
 
-# Dataset Card for hmar-language-basic-words
+## Dataset Card for hmar-language-basic-words
 
-This dataset is part of my personal project to create a comprehensive dataset for the Hmar language. It includes Dr. John H. Pulamte's dictionary, scraped from [pherzawl-diksawnari.com](https://pherzawl-diksawnari.com/). No explicit license was found on the source website, and users should be aware that this data may be subject to copyright. The dataset is stored in the `Pherzawl-Diksawnari` directory with CSV files categorized by their starting letter. The previous dataset has been removed in favor of more accurate translations, ensuring this version is a better resource for Hmar language documentation and learning.
+This dataset is part of my personal project to create a comprehensive dataset for the Hmar language. It includes Dr. John H. Pulamte's dictionary, scraped from [pherzawl-diksawnari.com](https://pherzawl-diksawnari.com/). No explicit license was found on the source website, and users should be aware that this data may be subject to copyright. However, since the data was scraped from a publicly accessible website, I believe it is acceptable for use in **non-commercial purposes**, such as language documentation, learning, and preservation.
+
+The dataset is stored in the `Pherzawl-Diksawnari` directory with CSV files categorized by their starting letter. The previous dataset has been removed in favor of more accurate translations, ensuring this version is a better resource for Hmar language documentation and learning.
 
 This dataset will continue to expand with additional dictionaries and resources as part of a larger effort to document the Hmar language.
 

@@ -17,7 +17,7 @@ The previous dataset has been deleted in light of more accurate and comprehensiv
 
 ## Dataset Card for hmar-language-basic-words
 
-This dataset is part of my personal project to create a comprehensive dataset for the Hmar language. It includes Dr. John H. Pulamte's dictionary, scraped from [pherzawl-diksawnari.com](https://pherzawl-diksawnari.com/). No explicit license was found on the source website, and users should be aware that this data may be subject to copyright. However, since the data was scraped from a publicly accessible website, I believe it is acceptable for use in **non-commercial purposes**, such as language documentation, learning, and preservation.
+This dataset is part of my personal project to create a comprehensive dataset for the Hmar language. Currently, It includes Dr. John H. Pulamte's dictionary, scraped from [pherzawl-diksawnari.com](https://pherzawl-diksawnari.com/). No explicit license was found on the source website, and users should be aware that this data may be subject to copyright. However, since the data was scraped from a publicly accessible website, I believe it is acceptable for use in **non-commercial purposes**, such as language documentation, learning, and preservation.
 
 The dataset is stored in the `Pherzawl-Diksawnari` directory with CSV files categorized by their starting letter. The previous dataset has been removed in favor of more accurate translations, ensuring this version is a better resource for Hmar language documentation and learning.
 
